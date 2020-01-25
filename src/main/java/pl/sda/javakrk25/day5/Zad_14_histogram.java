@@ -5,6 +5,7 @@ import java.util.Random;
 public class Zad_14_histogram {
     /**
      * Stworz pogram ktory generuje historgam losowych liczb
+     * test branch change
      *
      * @param args
      */
@@ -20,5 +21,6 @@ public class Zad_14_histogram {
         for (int i = 0; i < histogram.length; i++) {
             System.out.println(String.format("%d -> %d", i, histogram[i]));
         }
+        //aditional comment
     }
 }
