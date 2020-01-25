@@ -5,7 +5,7 @@ import java.util.Random;
 public class Zad_14_histogram {
     /**
      * Stworz pogram ktory generuje historgam losowych liczb
-     * test change - master
+     * test change 1
      *
      * @param args
      */
