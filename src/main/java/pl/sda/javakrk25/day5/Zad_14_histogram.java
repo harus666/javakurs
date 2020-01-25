@@ -21,5 +21,6 @@ public class Zad_14_histogram {
         for (int i = 0; i < histogram.length; i++) {
             System.out.println(String.format("%d -> %d", i, histogram[i]));
         }
+        //aditional comment
     }
 }
